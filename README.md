@@ -6,10 +6,9 @@ Django CRM is opensource CRM developed on django framework. It has all
 the basic features of CRM to start with. We welcome code contributions
 and feature requests via github.
 
-This is divided into three parts
-1. Backend API [Django CRM](https://github.com/MicroPyramid/Django-CRM)
-2. Frontend UI [React CRM](https://github.com/MicroPyramid/react-crm "React CRM")
-3. Mobile app [Flutter CRM]("https://github.com/MicroPyramid/flutter-crm")
+This is divided into two parts
+1. Backend API Django CRM
+2. Frontend UI React CRM
 
 ## Runcode 
 
@@ -111,7 +110,7 @@ python manage.py runserver
 ```
 - Then open http://localhost:8000/swagger/ in your borwser to explore API.
 
-- After running API, Go to Frontend UI [React CRM](https://github.com/MicroPyramid/react-crm "React CRM") project to configure Fronted UI to interact with API.
+- After running API, To configure Fronted UI to interact with API, you need to get Front end source code from me.
 
 
 ## Start celery worker in another terminal window
@@ -127,30 +126,18 @@ pip-check -H  # to see upgradable packages
 isort # to sort imports in python
 ```
 
-### Community
-
-Get help or stay up to date.
-
--   [Issues](<https://github.com/MicroPyramid/Django-CRM/issues>)
--   Follow [@micropyramid](<https://twitter.com/micropyramid>) on Twitter
--   Ask questions on [Stack Overflow](<https://stackoverflow.com/questions/tagged/django-crm>)
--   Chat with community [Gitter](<https://gitter.im/MicroPyramid/Django-CRM>)
--   For customisations, email to <django-crm@micropyramid.com>
-
 ## Credits
 
 ### Contributors
 
 This project exists thanks to all the people who contribute!
 
-![image](https://opencollective.com/django-crm/contributors.svg?width=890&button=false)
+
 
 ### Feature requests and bug reports
 
 We welcome your feedback and support, raise github issue if you want to
 report a bug or request new feature. we are glad to help.
 
-For commercial support [Contact us](https://micropyramid.com/contact-us/)
 
-# Trigger deploy
 
